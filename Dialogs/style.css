@@ -1,0 +1,6 @@
+.text {
+    display: grid;
+    grid-auto-rows: auto;
+    width: 100px;
+    justify-content: center;
+}
